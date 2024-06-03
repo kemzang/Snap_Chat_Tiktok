@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "97891471478",
+    "project_id": "snapchattiktok-f517b",
+    "storage_bucket": "snapchattiktok-f517b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97891471478:android:14369ddb3f619dfe43cf57",
+        "android_client_info": {
+          "package_name": "com.snapchat_tiktok"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoUjyMdx0xiFqynYC17CAUu3BLBy325rA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
